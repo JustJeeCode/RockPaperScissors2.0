@@ -1,0 +1,24 @@
+.mid {
+    text-align: center;
+}
+
+header {
+    margin: 0;
+    font-family: 'Titillium Web', sans-serif;
+    color: #0B0B61;
+    font-size: 24px;
+    background-color: white;
+    padding: .5px;
+}
+
+
+#scoreboard {
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+body {
+    background-color: black;
+    margin: 0;
+}
