@@ -1,15 +1,12 @@
 * {
     margin: 0;
+    padding: 0;
 }
 
 img {
-    height: 90px;
-    width: 90px;
-    padding: 15px;
-}
-
-.left {
-    text-align: left;
+    height: 150px;
+    width: 150px;
+    padding: 25px;
 }
 
 .mid {
@@ -33,12 +30,8 @@ header {
     font-size: 20px;
 }
 
-#main_content {
-    margin-top: 80px;
-}
-
 #select_item {
-    margin-left: 5%;
+    margin-top: 50px;
 }
 
 #computer_area {
