@@ -35,9 +35,30 @@ header {
 }
 
 #computer_area {
+    font-family: 'Titillium Web', sans-serif;
+    margin-top: 60px;
     color: white;
+    text-align: center;
+}
+
+#comp_selected {
+    padding: 40px;
+    margin-top: 30px;
+    color: white;
+    border: solid;
+    border-width: 5px;
 }
 
 body {
     background-color: black;
+}
+
+footer {
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    position: bottom;
+    width: 100%;
+    margin-top: 80px;
+    margin-bottom: 10px;
+    color: white;
 }
